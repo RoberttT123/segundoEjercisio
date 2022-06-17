@@ -5,7 +5,7 @@ html,body {
   font-family: 'PT Sans Caption', sans-serif;
 }
 body{
-  background-color:#274627;
+  background: rgb(70, 75, 69);
   height: 100vh;
   display: flex;
   flex-direction: column;

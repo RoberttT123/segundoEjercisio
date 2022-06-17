@@ -1,8 +1,9 @@
 .Bottom{
-    margin:0 16px 0 23px;
-    height: 565px;
+    height: 548px;
+    width: 703px;
     position: relative;
     display: block;
-  
-    border-radius: 20px;
+    margin:0 16px 0 21px;
+    background-color: white;
+    border-radius: 15px;
 }

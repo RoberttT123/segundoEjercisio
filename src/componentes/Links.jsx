@@ -1,8 +1,8 @@
 import React from 'react'
 import Linkedin from '../Assets/Linkedin.png'
 import Instagram from '../Assets/Instagram.png'
-import '../Styles/Social.css'
-function Social() {
+import '../Styles/Links.css'
+function Links() {
   return (
     <div className='Social'>
         <img src={Linkedin} alt='Linkedin'/>
@@ -17,4 +17,4 @@ function Social() {
   )
 }
 
-export  {Social}
+export  {Links}

@@ -1,7 +1,9 @@
 .card{
     
-    width: 740px;
     margin: 0 auto;
     background-image: url(../Assets/Rectangle\ 1.png);
-    border-radius: 15px; 
+     width: 740px;
+    border-radius: 13px; 
+    offset: Drop shadow;
+    
 }

@@ -1,14 +1,14 @@
 .Social{
+    Font-family: PT Sans Caption;
     height: 125px;
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 10px;
-}
-.Social span{
-    font-size: 14px;
-    font-weight: 400;
+    font-weight: Regular;
+    Line-height: 18px;
+    Line-height: 100%
 }
 .Social span:nth-child(2){
-    margin-right: 30px;
+    margin-right: 20px;
 }
