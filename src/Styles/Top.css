@@ -1,0 +1,15 @@
+.top{
+    height: 297px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.top img{
+    border-radius: 50%;
+    border: 8px solid white;
+    position: relative;
+    bottom: -150px;
+    width: 287px;
+    height: 287px;
+    z-index: 1;
+}

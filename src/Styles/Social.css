@@ -1,0 +1,14 @@
+.Social{
+    height: 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.Social span{
+    font-size: 14px;
+    font-weight: 400;
+}
+.Social span:nth-child(2){
+    margin-right: 30px;
+}
